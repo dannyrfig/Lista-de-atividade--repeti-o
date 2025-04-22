@@ -1,6 +1,6 @@
-let numPar1 = parseInt(prompt("Digite um determinado número")); 
+let numPar1 = parseInt(prompt("Digite um determinado número")); //O usuário irá inserir um determinado número
 
-let numPar2 = parseInt(prompt("Digite um determinado número")); 
+let numPar2 = parseInt(prompt("Digite um determinado número"));  //O usuário irá inserir um determinado número
 
 if (isNaN(numPar1) || isNaN(numPar2)) { 
 
